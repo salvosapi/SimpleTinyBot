@@ -1,4 +1,4 @@
-<?php
+<?php 
 //$this->config contains configuration and bot Information
 //$this->data contains message and sender information
 class SimpleTinyBot
