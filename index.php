@@ -4,3 +4,4 @@ require_once('SimpleTinyBot.php');
 $bot = new SimpleTinyBot;
 ?>
 
+ 
